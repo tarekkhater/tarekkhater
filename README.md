@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I’m tarekkhater .
 
-<!--
-**tarekkhater/tarekkhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Web Developer
 
-Here are some ideas to get you started:
+- 🛠️ Skilled in:
+  - **Frontend**: React, Next.js, Redux, Framer Motion, CSS, Material UI.
+  - **Backend**: Laravel, PHP, MySQL, Laravel Nova.
+- 🚀 Passionate about creating dynamic, high-performance web applications.
+- 🌱 Currently learning: Performance optimization and GraphQL.
+- 🌐 Open to collaborating on exciting web projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Featured Projects
+- [Admin Dashboard Template](https://github.com/yourusername/admin-dashboard)  
+  A fully responsive admin dashboard built with React and Material UI.
+  
+- [E-commerce Website](https://github.com/yourusername/ecommerce-site)  
+  A scalable e-commerce platform using Laravel and Next.js.
+
+---
+
+### 📫 Get in Touch
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio](https://yourportfolio.com)
+- 📧 [Email](mailto:your_email@example.com)
